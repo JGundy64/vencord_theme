@@ -58,10 +58,10 @@
   --channel-unread: var(--main-color);
   --channel-color: rgba(255,255,255,0.3);
   --muted-color: rgba(255,255,255,0.1);
-  --online-color: #43b581;
-  --idle-color: #faa61a;
-  --dnd-color: #982929;
-  --streaming-color: #593695;
+  --online-color: #00ff00;
+  --idle-color: #ffff00;
+  --dnd-color: #ff0000;
+  --streaming-color: #6600cc;
   --offline-color: #808080;
   --main-font: gg sans;
   --code-font: Consolas;
