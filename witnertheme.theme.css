@@ -30,7 +30,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-image: url('https://i.imgur.com/2OmeV6Z.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -58,11 +58,11 @@
   --channel-unread: var(--main-color);
   --channel-color: rgba(255,255,255,0.3);
   --muted-color: rgba(255,255,255,0.1);
+  --offline-color: #808080;
   --online-color: #43b581;
   --idle-color: #faa61a;
   --dnd-color: #982929;
   --streaming-color: #593695;
-  --offline-color: #808080;
   --main-font: gg sans;
   --code-font: Consolas;
   --channels-width: 220px;
